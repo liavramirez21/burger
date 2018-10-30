@@ -45,3 +45,8 @@ form.form { background-color: #c1bfae;
 width: 300px;
 margin-left: 37%;
 }
+
+img#cute_burger {
+    height: 80px;
+    width: 100px;
+}
