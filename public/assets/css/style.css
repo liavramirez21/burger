@@ -1,0 +1,32 @@
+html {
+    background-color: #FFC04C;
+    font-family: 'Spicy Rice', cursive;
+
+}
+
+div.col.s6 {
+    margin-left: 20%;
+    position: static;
+}
+
+div#blue.row{
+
+    width: auto;
+    height: auto;
+    position: auto;
+    margin-top: -70%;
+    margin-left: 60%;
+    
+  
+}
+
+h2 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 30px;
+}
+
+h1.eat {
+    font-size: 50px;
+}
