@@ -1,12 +1,15 @@
 html {
-    background-color: #FFC04C;
+    background-color: #F1DF5A;
     font-family: 'Spicy Rice', cursive;
-
 }
 
-div.col.s6 {
+div.col.s6#devoured {
+    
     margin-left: 20%;
     position: static;
+    
+
+    
 }
 
 div#blue.row{
@@ -16,17 +19,29 @@ div#blue.row{
     position: auto;
     margin-top: -70%;
     margin-left: 60%;
-    
+   
   
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 40px;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: white;
 }
 h4 {
-    font-size: 30px;
+    font-size: 40px;
+    -webkit-text-stroke-width: 0.2px;
+    -webkit-text-stroke-color: white;
 }
 
 h1.eat {
-    font-size: 50px;
+    font-size: 100px;
+    color:red;
+    -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: white;
+}
+
+form.form { background-color: #c1bfae;
+width: 300px;
+margin-left: 37%;
 }
